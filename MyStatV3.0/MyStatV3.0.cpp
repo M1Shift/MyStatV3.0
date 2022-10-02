@@ -2,6 +2,7 @@
 #include "Tests.h"
 #include "Shift.h"
 using namespace std;
+using namespace shift;
 int main()
 {
 	Student student;
