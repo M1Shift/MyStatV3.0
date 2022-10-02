@@ -131,6 +131,7 @@
     <ClCompile Include="MyStatV3.0.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Finance manager\Finance manager\Shift.h" />
     <ClInclude Include="Console.h" />
     <ClInclude Include="FileCryptor.h" />
     <ClInclude Include="Tests.h" />

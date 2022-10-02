@@ -1,11 +1,6 @@
-#include <fstream>
-#include <iostream>
-#include <filesystem>
+
 #include "Tests.h"
-#include <iostream>
-#include <string>
-#include <windows.h>
- 
+#include "Shift.h"
 using namespace std;
 int main()
 {
